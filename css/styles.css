@@ -120,7 +120,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.our-team {
+.our-team, .our-portfolio {
    
     font-weight: 700;
     font-size: 36px;
@@ -152,7 +152,7 @@ text-align: center;
 color: #434455;
 }
 
-.features-team-members,
-.features-position {
+.features-team-list {
     background-color: #fff;
 }
+
