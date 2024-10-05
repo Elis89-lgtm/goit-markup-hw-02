@@ -111,9 +111,9 @@ ul {
   color: #434455;
 }
 
-.our-team ,
+.our-team,
 .our-portfolio {
-  text-transform: capitalize
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -122,12 +122,11 @@ ul {
   color: #2e2f42;
 }
 .our-team-part {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
-.photo-caption {
-    background-color: #FFFFFF;
+.features-item {
+  background-color: #ffffff;
 }
-
 .features-team-members {
   font-weight: 500;
   font-size: 20px;
@@ -144,8 +143,6 @@ ul {
   text-align: center;
   color: #434455;
 }
-
-
 
 .features-product {
   font-weight: 500;
