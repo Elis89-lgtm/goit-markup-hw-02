@@ -95,10 +95,7 @@ ul {
   background-color: #404bbf;
 }
 
-.strategy,
-.punctuality,
-.diligence,
-.technologies {
+.features-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
