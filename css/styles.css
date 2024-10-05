@@ -75,7 +75,6 @@ ul {
 }
 
 .hero-btn {
-  font-family: inherit
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -87,85 +86,88 @@ ul {
   background-color: #4d5ae5;
 }
 
+.hero-btn {
+  cursor: pointer;
+}
+
 .hero-btn:hover,
 .hero-btn:focus {
-    color: #4d5ae5;  
+  background-color: #404bbf;
 }
 
-.strategy,.punctuality,
-.diligence,.technologies {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;
+.strategy,
+.punctuality,
+.diligence,
+.technologies {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
-.strategy-text,.punctuality-text,
-.diligence-text,.technologies-text {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+.strategy-text,
+.punctuality-text,
+.diligence-text,
+.technologies-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.our-team, .our-portfolio {
-   
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
+.our-team,
+.our-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 .our-team-part {
-    background-color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .features-team-members {
-   
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .features-position {
-  
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-text-align: center;
-color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
 }
 
 .features-team-members,
 .features-position {
-background-color: #fff;
+  background-color: #fff;
 }
 .features-product {
-    
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .type {
-   
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .description-text {
-    
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
